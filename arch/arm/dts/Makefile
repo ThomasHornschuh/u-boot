@@ -708,7 +708,8 @@ dtb-$(CONFIG_TARGET_SAMA5D2_PTC_EK) += \
 	at91-sama5d2_ptc_ek.dtb
 
 dtb-$(CONFIG_TARGET_SAMA5D2_XPLAINED) += \
-	at91-sama5d2_xplained.dtb
+	at91-sama5d2_xplained.dtb \
+	at91-sama5d27_jupiter_nano.dtb
 
 dtb-$(CONFIG_TARGET_SAMA5D27_SOM1_EK) += \
 	at91-sama5d27_som1_ek.dtb
